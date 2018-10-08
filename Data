@@ -1,0 +1,6 @@
+The data that I hope to use is primarily the foursquare api to get the 
+location of restaurants based on category. I will also use the Metropolitan
+Transit Authority of New York API to get information on public transit in New 
+York City. Additionally I will use the Bay Area Rapid Transit API to get public transit 
+information for San Franscisco. Finally, I will use the LA metro api to get information in Los Angeles.
+Based on the those 3 cities I feel I would have enough of a sample to apply to most cities.
