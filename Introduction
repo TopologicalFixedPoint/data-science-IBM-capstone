@@ -1,5 +1,11 @@
 The business problem that I am hoping to solve is whether there is a correlation 
-between stops on public transportation and the quantity of restaurants. The end goal is to build a recommender system 
+between stops on public transportation and the quantity of restaurants.
+
+The end goal is to build a recommender system 
 that can recommend locations to open a new store. The target demographic is small business owners
-who could use advice to open a location to expand. THerefore, business owners in the restaurant industry
-will be interested in this project. 
+who could use advice to open a location to expand. I will classify transit locations by inputting station
+latitude and longitudes to the foursquare API. Then use foursquare to get the nearest venues then get the 
+categories for the nearest venues. The location will be classified by the most prevalent category.
+
+Therefore, business owners in the restaurant industry
+would be interested in this project. 
