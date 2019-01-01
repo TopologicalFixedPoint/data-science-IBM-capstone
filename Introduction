@@ -8,4 +8,5 @@ latitude and longitudes to the foursquare API. Then use foursquare to get the ne
 categories for the nearest venues. The location will be classified by the most prevalent category.
 
 Therefore, business owners in the restaurant industry
-would be interested in this project. 
+would be interested in this project. Using this recommender system 
+will tell them whether a certain location is a good place to open a new venue.
